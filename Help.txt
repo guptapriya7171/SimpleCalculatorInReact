@@ -1,0 +1,1 @@
+https://bobbyhadz.com/blog/not-recognized-as-internal-or-external-command-react-scripts#:~:text=To%20solve%20the%20error%20%22react,your%20npm%20cache%20if%20necessary.&text=Copied!
